@@ -1,0 +1,30 @@
+name: "鬢櫛研究室"
+navbar: 
+  title: "世界のKAZUO BINGUSHI"
+  left:
+    - text: "ホーム"
+      href: index.html
+    - text: "メンバー"
+      href: member.html
+    - text: "パブリケーション"
+      href: publication.html
+    - text: "ディスコグラフィー"
+      href: discography.html
+      
+  right:
+    - text: "アクセス"
+      href: access.html
+    - text: "リンク"
+      href: link.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    toc: true
+    toc_float:
+      collapse: false
+    df_print: "kable"
+    include:
+      after_body: footer.html
+    css: site_style.css
+output_dir: "docs"
