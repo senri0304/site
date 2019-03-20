@@ -1,8 +1,6 @@
----
-title: "リンク"
----
 
 ## リンク
-- [高橋研究室(隣室)](http://kohske.github.io/chukyo/indexj.html)
+- [高橋研究室](http://kohske.github.io/chukyo/indexj.html)
+- [近藤研究室](https://hk-lab.github.io/index-j.html)
 - [R MarkdownでWebサイト生成しよう](https://kazutan.github.io/RmdSite_tuto/)
 - [長谷川GitHub](https://github.com/senri0304)
